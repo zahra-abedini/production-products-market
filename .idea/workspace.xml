@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33f2adff-38b4-430f-944f-50bb2032b2d9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24PWh4ZYMjN0vnXqDyGhNC9PBV9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Project.color": "58255d",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/project/contemo/main/contemoMarket",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Pages/LandingPage/Components" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="build" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33f2adff-38b4-430f-944f-50bb2032b2d9" name="Changes" comment="" />
+      <created>1643532817529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643532817529</updated>
+      <workItem from="1643532818837" duration="4533000" />
+      <workItem from="1643592637830" duration="2255000" />
+      <workItem from="1643659869120" duration="16000" />
+      <workItem from="1643659904678" duration="2602000" />
+      <workItem from="1643665616177" duration="3650000" />
+      <workItem from="1643791702862" duration="1306000" />
+      <workItem from="1643871829184" duration="616000" />
+      <workItem from="1643872455606" duration="18000" />
+      <workItem from="1643872490536" duration="2816000" />
+      <workItem from="1644035826223" duration="1331000" />
+      <workItem from="1644058472271" duration="16000" />
+      <workItem from="1644060219248" duration="2615000" />
+      <workItem from="1644145574527" duration="4666000" />
+      <workItem from="1644193881094" duration="16000" />
+      <workItem from="1644193907846" duration="294000" />
+      <workItem from="1644231452684" duration="335000" />
+      <workItem from="1661408220439" duration="506000" />
+      <workItem from="1661409344051" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

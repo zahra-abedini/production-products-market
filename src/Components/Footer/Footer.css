@@ -1,0 +1,39 @@
+footer > .icon{
+    text-align: center;
+    padding-top: 35px;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    display: inline-block;
+    width: 100%;
+}
+footer {
+    background-color: rgba(0, 0, 0, 0.1);
+    height: 80px;
+    border-top-left-radius: 3rem;
+    border-top-right-radius: 3rem;
+}
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+.fa-linkedin {
+    color: white;
+}
+
+.fa-instagram {
+    color: white;
+}
+
